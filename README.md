@@ -4,7 +4,7 @@ Add conversation bubbles to Zendesk tickets created from Chat
 
 ## This is a Google Chrome Extension.
 
-It can be downloaded and installed directly form the Google Web Store [here](https://chrome.google.com/webstore/detail/adlagjillplchmcfiipkmbnjccfkmlci/).
+It can be downloaded and installed directly form the Google Web Store [here](https://chrome.google.com/webstore/detail/zendesk-chat-ticket-bubbl/adlagjillplchmcfiipkmbnjccfkmlci).
 
 ### This extension works inside Tickets created from Chat:
 
