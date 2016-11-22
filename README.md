@@ -9,7 +9,7 @@ It can be downloaded and installed directly form the Google Web Store [here](htt
 ### This extension works inside Tickets created from Chat:
 
 * Takes the plain text from a Chat transcript and adds bubbles based on sender.
-* Messages from Agent are highlighted blue.
+* Messages from Agent are highlighted the same color as the Navigation Bar.
 * Messages from Visitor are highlighted gray.
 
 Please submit bug reports [here](https://github.com/aculligan/Zendesk_Chat_Ticket_Bubbles/issues).
