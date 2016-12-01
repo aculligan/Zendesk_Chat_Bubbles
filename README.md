@@ -1,3 +1,5 @@
+⚠️ Use of this software is subject to important terms and conditions as set forth in the [License](https://github.com/aculligan/Zendesk_Chat_Ticket_Bubbles/blob/master/License) file ⚠️
+
 # Zendesk Chat Ticket Bubbles
 
 Add conversation bubbles to Zendesk tickets created from Chat
