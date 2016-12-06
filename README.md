@@ -16,7 +16,7 @@ Please submit bug reports [here](https://github.com/aculligan/Zendesk_Chat_Ticke
 
 ### Screenshots:
 
-![Screenshot 1](https://aculligan.github.io/CDN/Zendesk_Chat_Ticket_Bubbles/img/screenshot-1.png) ![Screenshot 2](https://aculligan.github.io/CDN/Zendesk_Chat_Ticket_Bubbles/img/screenshot-2.png) ![Screenshot 3]
+![Screenshot 1](https://aculligan.github.io/CDN/Zendesk_Chat_Ticket_Bubbles/img/screenshot-1.png) ![Screenshot 2](https://aculligan.github.io/CDN/Zendesk_Chat_Ticket_Bubbles/img/screenshot-2.png)
 
 ### Version:
 
