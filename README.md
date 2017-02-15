@@ -2,4 +2,4 @@
 
 Add conversation bubbles to Zendesk Chat tickets.
 
-More info [here](https://aculligan.github.io/apps/chatbubbles).
+More info [here](https://aculligan.github.io/work/chatbubbles).
